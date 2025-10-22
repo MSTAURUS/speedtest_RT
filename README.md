@@ -36,3 +36,6 @@ python speedtest.py <OPTION>
   -d, --debug - вывод на экран всех запросов
   
   -t, --timeout - установка повторных запросов, по-умолчанию = 0 (один запрос)
+
+  <img width="537" height="356" alt="image" src="https://github.com/user-attachments/assets/14aa8d23-b830-4fc6-b96f-891bcad70ca0" />
+
